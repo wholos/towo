@@ -1,5 +1,5 @@
 all:
-  @gcc src/towo.c -o towo
+  @nim c -o=towo src/main.nim
 
 install:
   @mv towo /bin/towo
