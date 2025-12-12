@@ -2,5 +2,6 @@
 **dependencies**
 ``` bash
 gcc
+nim
 make
 ```
